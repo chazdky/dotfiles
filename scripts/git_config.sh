@@ -1,7 +1,7 @@
 git config --global user.name "Chaz Davis"
 git config --global user.email "chazdii@gmail.com"
 git config --global github.user chazdky
-git config --global core.editor "vim"
+git config --global core.editor "nvim"
 git config --global color.ui true
 git config --global push.default simple
 
